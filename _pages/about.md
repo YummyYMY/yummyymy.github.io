@@ -1,5 +1,5 @@
 permalink: /
-title: Muyuan Yang - Homepage
+title: "Muyuan Yang - Homepage"
 author_profile: true
 redirect_from: 
   - /about/
