@@ -1,41 +1,7 @@
 permalink: /
-title: "Muyuan Yang - Homepage"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-
-# Muyuan Yang
-
-**M.S. Candidate**  
-Department of Computer Science  
-National University of Defence Technology  
-Email: [yangmuyuan21@nudt.edu.cn](mailto:yangmuyuan21@nudt.edu.cn)
-
----
-
-## About Me
-
-I am a 2025 M.S. candidate in the Department of Computer Science at National University of Defence Technology , advised by Professor Huainmin Wang. My research lies at the intersection of **machine learning systems** and **efficient deep learning**, with a particular focus on:
-
-- Federated Learning & Distributed Optimization
-- Mixture of Experts (MoE) and Conditional Computation
-- Parameter-Efficient Fine-Tuning (PEFT) methods
-- Large Language Model Acceleration
-
-
----
-
-## 🔬 Research Interests
-
-| Category | Topics |
-|----------|--------|
-| **Federated Learning** | Personalized FL, Heterogeneous Clients, Communication Efficiency |
-| **Efficient AI** | Mixture of Experts, LoRA/Adapter Tuning, Model Compression |
-| **LLM Systems** | Inference Optimization, Distributed Training, AI Infrastructure |
-| **Theory** | Information Theory, Optimization Generalization Bounds |
-
----
-
-
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
