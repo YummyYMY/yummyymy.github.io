@@ -1,7 +1,9 @@
----
-layout: default
+permalink: /
 title: Muyuan Yang - Homepage
-description: Personal academic homepage.
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 # Muyuan Yang
